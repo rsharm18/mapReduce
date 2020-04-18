@@ -1,0 +1,3 @@
+[debug] Copy resource mappings: 
+[debug] 	(M:\github_project\CSC_536_DistSys_2\mapreduce\src\main\resources\application.conf,M:\github_project\CSC_536_DistSys_2\mapreduce\target\scala-2.13\classes\application.conf)
+[debug] 	(M:\github_project\CSC_536_DistSys_2\mapreduce\src\main\resources\inputPathFile.txt,M:\github_project\CSC_536_DistSys_2\mapreduce\target\scala-2.13\classes\inputPathFile.txt)
